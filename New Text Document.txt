@@ -1,0 +1,36 @@
+VoIP Network Topology Project
+
+🎯 Objectives
+
+Design and document a structured VoIP infrastructure using Cisco 2811 router, switch, and Cisco 7960 IP Phones.
+
+Demonstrate VLAN segmentation by grouping IP Phones into departments with clear color-coded sections.
+
+Show practical connectivity between IP Phones, switch ports, and router for external communication.
+
+Provide a teaching resource and portfolio project for networking and system administration.
+
+📈 Benefits of the Lab
+
+Hands-on practice with VLANs, routing, and switch configuration.
+
+VoIP deployment skills: understanding how IP Phones integrate into enterprise networks.
+
+Troubleshooting scenarios: simulate real-world issues with connectivity, DHCP, or call routing.
+
+Documentation experience: creating diagrams and README files for professional presentation.
+
+Portfolio value: a complete project that can be showcased on GitHub for employers or students.
+
+🖥️ Practical Applications
+
+Training material for CCNA/MCSA courses.
+
+Reference design for small-to-medium enterprise VoIP setups.
+
+Basis for expanding into advanced labs (QoS, SIP trunking, call manager integration).
+
+
+
+
+
